@@ -8,4 +8,4 @@ function scuberGreetingForFeet (feet){
     return "No can do."
   }
 
-const ternaryCheckCity(city)
+function ternaryCheckCity(city)
