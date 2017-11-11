@@ -1,2 +1,2 @@
 // Write your code in this file!
-var sample = 'scuberGreetingForFeet'
+function scuberGreetingForFeet(feet)
