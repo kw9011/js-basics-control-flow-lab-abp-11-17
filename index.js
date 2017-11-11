@@ -1,6 +1,6 @@
 // Write your code in this file!
 -
- -function scuberGreetingForFeet(feet){
+ -var scuberGreetingForFeet(feet){
  -  if(feet <= 400){
  -    return 'This one is on me!'
  -  } else if (1999 < feet && feet < 2000){
