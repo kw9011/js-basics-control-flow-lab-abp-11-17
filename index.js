@@ -8,3 +8,7 @@ function scuberGreetingForFeet(number) {
   else if (number > 2500)
     return 'No can do.';
 }
+let city 
+function ternaryCheckCity(city) {
+  return city === 'NYC'? 'Ok, sounds good.' : 'No go.'
+}
