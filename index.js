@@ -1,6 +1,8 @@
 // Write your code in this file!
-let number 
-function scuberGreetingForFeet(number)
+let number
+function scuberGreetingForFeet(number){
+  if number <=400) 
+}
  -
  -function ternaryCheckCity(city){
  -  return city === 'NYC' ? 'Ok, sounds good.' : 'No go.'
