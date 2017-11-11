@@ -13,15 +13,15 @@ function ternaryCheckCity(city) {
   return city === 'NYC'? 'Ok, sounds good.' : 'No go.'
 }
 
-
-function switchOnCharmFromTip(tip){
+consttip= 'switchOnCharmFromTip'
+let remark; 
  switch(tip) {
  case 'generous':
-return = 'Thank you so much.'
+remark = 'Thank you so much.'
   break;
  case 'not as generous':
-return = 'Thank you.'
+remark = 'Thank you.'
 break;
 default:
- return 'Bye.'
+ remark 'Bye.'
  }
